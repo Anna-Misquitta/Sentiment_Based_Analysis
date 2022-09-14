@@ -1,3 +1,6 @@
+from asyncio.windows_events import NULL
+
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
@@ -205,7 +208,7 @@
       "metadata": {
         "id": "2wMTLXpCE-nj"
       },
-      "execution_count": null,
+      "execution_count": NULL,
       "outputs": []
     }
   ]
